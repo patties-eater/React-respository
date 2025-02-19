@@ -1,0 +1,11 @@
+.header-buttons {
+  display:flex;
+  gap: 10px;
+  justify-content: center;
+          align-items: center;
+          margin-top: 30px ;
+}
+
+.btn{
+  padding: 10px 20px;
+}
